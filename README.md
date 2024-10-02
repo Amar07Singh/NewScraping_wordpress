@@ -6,7 +6,7 @@ This is a script a made a couple of years ago for learning purposes which scrape
 clone this repository 
 
 ```bash
-git clone https://github.com/dyegoaurelio/wordpress-auto-post.git
+git clone https://github.com/Amar07Singh/NewScraping_wordpress.git
 ```
 
 install requeriments
